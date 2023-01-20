@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    min-height: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul>li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hero {}
+
+.container {}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {}
+
+.logo__img {}
+
+.nav {}
+
+.nav__list {}
+
+.nav__item {}
+
+.nav__link {}
+
+.btn {}
+
+.hero__content {}
+
+.hero__info {}
+
+.hero__headline {}
